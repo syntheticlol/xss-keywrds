@@ -1,0 +1,42 @@
+<script
+<script src
+<img src
+<iframe
+<frame
+<object
+<embed
+<video
+<audio
+<source
+<link
+<style
+<base
+<form
+<input
+<select
+<textarea
+<button
+<a href
+<a onclick
+<svg
+<math
+<applet
+<layer
+<bgsound
+<wbr
+<br
+<hr
+<col
+<area
+<param
+<basefont
+<datalist
+<command
+<keygen
+<output
+<progress
+<meter
+<embed
+<keygen
+<command
+<param
