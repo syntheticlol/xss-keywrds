@@ -16,7 +16,6 @@
 <select
 <textarea
 <button
-<a href
 <a onclick
 <svg
 <math
